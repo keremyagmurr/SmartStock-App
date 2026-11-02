@@ -90,7 +90,7 @@ B planlarının hiçbiri projenin temel hedeflerinden sapmaya yol açmaz.
 
 | Altyapı / ekipman | Kullanım amacı |
 |---|---|
-| Bartın Üniversitesi Bilgisayar Mühendisliği Bölümü bilgisayar laboratuvarları | Kullanılabilirlik deneyleri, görev süresi ölçümleri, çok istemcili eşzamanlılık testleri |
+| Bilgisayar laboratuvarları | Kullanılabilirlik deneyleri, görev süresi ölçümleri, çok istemcili eşzamanlılık testleri |
 | Geliştirme bilgisayarı (.NET 10 SDK ve MAUI iş yükü, Android SDK ve emülatör, konteynerde yerel PostgreSQL arka ucu, Git) | Mobil ve web kodlaması, yerel veritabanı geliştirme, otomatik testler, sürüm kontrolü |
 | Kameralı Android akıllı telefon | Gerçek cihazda kod okuma, bildirim ve kullanılabilirlik testleri |
 | Bulut arka uç hizmeti (ücretsiz katman) ve ödeme kuruluşunun test ortamı | Çok kullanıcılı pilot kullanım, gerçek zamanlı bildirim, kartla ödeme ve hakediş akışları |

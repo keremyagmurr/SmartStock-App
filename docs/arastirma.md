@@ -99,7 +99,7 @@ $$
 
 - **İstatistik:** Fark puanlarının normalliği **Shapiro–Wilk** testiyle sınanır; normal dağılımda **eşleştirilmiş örneklem t-testi**, aksi hâlde **Wilcoxon işaretli sıralar testi** uygulanır (α = 0,05) ve etki büyüklüğü raporlanır.
 - **Kullanılabilirlik:** On maddelik, 0–100 arası tek bir bileşik puan veren **SUS** ile ölçülür (Brooke, 1996). 70 ve üzeri puan geleneksel olarak "geçer" kabul edildiği için başarı ölçütü 70'tir (Bangor vd., 2009).
-- **Etik:** Katılımcılardan kimlik bilgisi alınmaz, yanıtlar anonim tutulur; gerekirse Bartın Üniversitesi etik kurulundan onay ya da muafiyet alınır.
+- **Etik:** Katılımcılardan kimlik bilgisi alınmaz, yanıtlar anonim tutulur; gerekirse etik kuruldan onay ya da muafiyet alınır.
 
 ## Tutarlılık, eşzamanlılık ve güvenlik testleri
 

@@ -239,8 +239,6 @@ Gerçek banka ve kargo entegrasyonu, e-Fatura/e-Arşiv, KDV hesaplaması, çoklu
 | | |
 |---|---|
 | **Proje yürütücüsü** | Kerem Yağmur |
-| **Danışman** | Dr. Öğr. Üyesi Bayram Akgül |
-| **Kurum** | Bartın Üniversitesi · Mühendislik, Mimarlık ve Tasarım Fakültesi · Bilgisayar Mühendisliği Bölümü |
 | **Program** | TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı (2026 yılı 1. dönem başvurusu) |
 | **Süre** | 12 ay, 6 iş paketi |
 
@@ -268,7 +266,7 @@ Gerçek banka ve kargo entegrasyonu, e-Fatura/e-Arşiv, KDV hesaplaması, çoklu
 - **Research approach:** Design Science Research, with four hypotheses on data consistency, task time (camera vs. manual), access security and usability (SUS ≥ 70).
 - **Status:** the pre-study (two working web simulations covering 30+ mobile screens and the marketplace) is complete; the screenshots in this repository come from those simulations. Source code is not published.
 
-Research proposal prepared for the TÜBİTAK 2209-A Undergraduate Research Projects Funding Program at Bartın University, Department of Computer Engineering.
+Research proposal prepared for the TÜBİTAK 2209-A Undergraduate Research Projects Funding Program.
 
 ---
 
